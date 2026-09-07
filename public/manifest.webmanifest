@@ -1,0 +1,13 @@
+{
+  "name": "PharmaSys - Gestion de Pharmacie",
+  "short_name": "PharmaSys",
+  "description": "Gestion quotidienne de pharmacie, ventes, stocks et finances.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#047857",
+  "icons": [
+    {"src":"./favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
